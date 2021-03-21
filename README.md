@@ -1,5 +1,7 @@
 # Grupa3-Tim1-BamBus
 
+<img src="https://github.com/ooad-2020-2021/Grupa3-BusTours/blob/main/logo.jpg" width="260" height="200"> 
+
 ## Članovi tima:
 * Agić Ahmed
 * Begić Armin	
