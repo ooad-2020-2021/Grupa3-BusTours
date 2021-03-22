@@ -12,7 +12,7 @@
 Aplikacija je namijenjena autobusnim prijevoznicima kako bi svojim korisnicima olakšali korištenje usluga autobuskog saobraćaja. Nudi se mogućnost online pregleda, filtriranja te kupovine karata autobuskog prijevoznika. Na jednostavan, brz i pouzdan način korisnik lako dolazi do željene akcije, te ima mogućnost jednostavnog korištenja QR koda umjesto konvencionalnog printanja karata. Također, vozačima se nudi uvid u obaveze u narednom periodu i pristup interaktivnoj mapi za pregled ruta.
 
 ## Akteri: 
-* Korisnici (prijavljeni i neprijavljeni) 
+* Korisnici (registrovani i neregistrovani) 
 * Vozači kompanije
 * Administratori
 
