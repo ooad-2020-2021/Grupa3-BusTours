@@ -7,5 +7,6 @@ namespace ProjectBamBus.Models
 {
     public class Class
     {
+
     }
 }
