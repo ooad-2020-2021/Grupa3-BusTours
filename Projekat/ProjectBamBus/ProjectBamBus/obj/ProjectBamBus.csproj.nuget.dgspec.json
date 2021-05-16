@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samsung\\Source\\Repos\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj": {}
+    "C:\\Users\\dank\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samsung\\Source\\Repos\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj": {
+    "C:\\Users\\dank\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samsung\\Source\\Repos\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
+        "projectUniqueName": "C:\\Users\\dank\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
         "projectName": "ProjectBamBus",
-        "projectPath": "C:\\Users\\samsung\\Source\\Repos\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
-        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samsung\\Source\\Repos\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\obj\\",
+        "projectPath": "C:\\Users\\dank\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
+        "packagesPath": "C:\\Users\\dank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dank\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dank\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
