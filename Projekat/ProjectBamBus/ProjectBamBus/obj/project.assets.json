@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bgcar\\source\\repos\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
+      "projectUniqueName": "C:\\Users\\bgcar\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
       "projectName": "ProjectBamBus",
-      "projectPath": "C:\\Users\\bgcar\\source\\repos\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
+      "projectPath": "C:\\Users\\bgcar\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
       "packagesPath": "C:\\Users\\bgcar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bgcar\\source\\repos\\ProjectBamBus\\ProjectBamBus\\obj\\",
+      "outputPath": "C:\\Users\\bgcar\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bgcar\\AppData\\Roaming\\NuGet\\NuGet.Config",

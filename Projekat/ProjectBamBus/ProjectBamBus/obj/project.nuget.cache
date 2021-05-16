@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nLOeO7ZJUEGanvUU9VDMlSS+x2XMGrfGuGw24cmVc3T7r007a7WebzwDu8OMLibaZ6LYcj5MOfCxbDVYPVt93g==",
+  "dgSpecHash": "vce2MbhSKD+5+0dEfb3s1m6ghHIRrMtJZiN+hTfEl14dtSdd4Mo8FjtvthSLwk4DzfCrxuqDIMFshyOsA4fjKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bgcar\\source\\repos\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
+  "projectFilePath": "C:\\Users\\bgcar\\Source\\Repos\\ooad-2020-2021\\Grupa3-BusTours\\Projekat\\ProjectBamBus\\ProjectBamBus\\ProjectBamBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bgcar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.12\\microsoft.aspnetcore.cryptography.internal.3.1.12.nupkg.sha512",
     "C:\\Users\\bgcar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.12\\microsoft.aspnetcore.cryptography.keyderivation.3.1.12.nupkg.sha512",
