@@ -1,0 +1,2 @@
+C:\Users\bgcar\Source\Repos\ooad-2020-2021\Grupa3-BusTours\Implementacija\BamBus\obj\Debug\BamBus.csprojAssemblyReference.cache
+C:\Users\bgcar\Source\Repos\ooad-2020-2021\Grupa3-BusTours\Implementacija\BamBus\obj\Debug\BamBus.csproj.CoreCompileInputs.cache
