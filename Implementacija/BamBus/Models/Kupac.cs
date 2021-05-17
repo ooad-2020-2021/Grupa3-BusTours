@@ -5,7 +5,7 @@ using System.Web;
 
 namespace BamBus.Models
 {
-    public class Kupac
+    public class Kupac:Korisnik
     {
 
     }
