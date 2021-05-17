@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Implementacija",
-    "\\Implementacija\\BamBus"
+    "\\Implementacija\\BamBus",
+    "\\Implementacija\\BamBus\\Models"
   ],
   "SelectedNode": "\\Implementacija\\BamBus\\BamBus.sln",
   "PreviewInSolutionExplorer": false
