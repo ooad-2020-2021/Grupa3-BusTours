@@ -18,7 +18,7 @@ namespace BamBus.Models
 		{
 		}
 
-		public Ruta(string mapaURL, double duzina, List<Veza> vezeStanica, double troskovi, int id) 
+		public Ruta(string mapaURL, double duzina, List<Veza> vezeStanica, double troskovi, int id)
 		{
 			this.MapaURL = mapaURL;
 			this.Duzina = duzina;
@@ -28,44 +28,44 @@ namespace BamBus.Models
 		}
 
 		public bool dodajVezu(Veza veza)
-        {
-			if(VezeStanica.Contains(veza))
-            {
+		{
+			if (VezeStanica.Contains(veza))
+			{
 				return false;
-            }
+			}
 			VezeStanica.Add(veza);
 			return true;
-        }
+		}
 
-		public dodajAlternativnuMapu(string mapa)
-        {
-			if(AlternativnaMapa.Contains(mapa))
-            {
+		public bool dodajAlternativnuMapu(string mapa)
+		{
+			if (AlternativnaMapa.Contains(mapa))
+			{
 				return false;
-            }
+			}
 			this.AlternativnaMapa.Add(mapa);
 			return true;
-        }
+		}
 
 		public bool obrisiVezu(Veza veza)
-        {
-			if(VezeStanica.Contains(veza))
-            {
+		{
+			if (VezeStanica.Contains(veza))
+			{
 				VezeStanica.Remove(veza);
 				return true;
-            }
+			}
 			return false;
-        }
+		}
 
 		public bool obrisiAlternativnuMapu(string mapa)
-        {
-			if(AlternativnaMapa.Contains(mapa))
-            {
+		{
+			if (AlternativnaMapa.Contains(mapa))
+			{
 				AlternativnaMapa.Remove(mapa);
 				return true;
-            }
+			}
 			return false;
-        }
+		}
 
 
 
