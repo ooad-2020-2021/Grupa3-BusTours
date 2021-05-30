@@ -85,7 +85,7 @@
 											"left": 208,
 											"top": 12,
 											"width": 913,
-											"height": 1429,
+											"height": 1413,
 											"nameLabel": {
 												"$ref": "AAAAAAF5vpWTEEDiBJo="
 											},
@@ -197,14 +197,14 @@
 													"left": 428,
 													"top": 80,
 													"width": 1,
-													"height": 1345
+													"height": 1297
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 392,
 											"top": 40,
 											"width": 72.736328125,
-											"height": 1385,
+											"height": 1337,
 											"nameCompartment": {
 												"$ref": "AAAAAAF5vpYPsED0+e4="
 											},
@@ -317,14 +317,14 @@
 													"left": 741,
 													"top": 80,
 													"width": 1,
-													"height": 1345
+													"height": 1297
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 704,
 											"top": 40,
 											"width": 73.47900390625,
-											"height": 1385,
+											"height": 1337,
 											"nameCompartment": {
 												"$ref": "AAAAAAF5vpYz/EEU6NI="
 											},
@@ -1989,12 +1989,12 @@
 														"$ref": "AAAAAAF5vtgGi0Ue9hs="
 													},
 													"font": "Arial;13;0",
-													"left": 718,
-													"top": 1079,
+													"left": 782,
+													"top": 1080,
 													"width": 124.287109375,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 1.5707953267948966,
+													"distance": 74,
 													"hostEdge": {
 														"$ref": "AAAAAAF5vtgGi0UfpY0="
 													},
@@ -2099,9 +2099,9 @@
 													"font": "Arial;13;0",
 													"left": 261.7890625,
 													"top": 1153,
-													"width": 123.1162109375,
+													"width": 117.34619140625,
 													"height": 13,
-													"text": "CombinedFragment1"
+													"text": "Spašavanje izmjena"
 												},
 												{
 													"_type": "LabelView",
@@ -2313,12 +2313,12 @@
 														"$ref": "AAAAAAF5vtmlGUVuXFc="
 													},
 													"font": "Arial;13;0",
-													"left": 712,
-													"top": 1235,
+													"left": 775,
+													"top": 1232,
 													"width": 136.58251953125,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 1.626293824348307,
+													"distance": 72.11102550927978,
 													"hostEdge": {
 														"$ref": "AAAAAAF5vtmlGkVv4Dk="
 													},
@@ -2724,7 +2724,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF5vpWTD0DfK08="
 									},
-									"name": "CombinedFragment1",
+									"name": "Spašavanje izmjena",
 									"interactionOperator": "par",
 									"operands": [
 										{
@@ -2747,7 +2747,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF5vpWTD0De/Jg="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2755,7 +2756,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF5vpWTD0De/Jg="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						}
 					]
 				}
